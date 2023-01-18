@@ -1,0 +1,23 @@
+1. Crear una base de datos sencilla llamada RRHH.
+
+2. Crear una tabla llamada EMPLEADO con campos para ID, NOMBRE, APELLIDO, DI, FECHA_DE_NACIMIENTO, DEPARTAMENTO, FECHA_CONTRATACION y SALARIO.
+
+3. Crear una aplicacion en JAVA que permita:
+
+    1. Crear empleados en la base de datos.(Función para que el usuario agrege un empleado.)
+
+    2. Consultar uno o todos los empleados de la base de datos.(Función para que el usuario consulte por un empleado.)
+
+    3. Actualizar la informacion de un empleado en la base de datos.(Función para hacer UPDATE de la información de un empleado.)
+
+    4. Eliminar un empleado de la base de datos.(Función para hacer DELETE y eliminar a un usuario.)
+
+La aplicacion sera una aplicacion por consola y basada en menus numerados, en donde el usuario introduce el numero de la opcion asociada a la acción que desea realizar y el programa le solicita los datos necesarios para ejecutar la accion o le muestra un sub-menu de ser necesario.
+//Reever ejercicio biblioteca y copiar formato en base a las condiciones de la aplicación y sus funciones.
+
+
+Primeros pasos:
+
+1-Abrir mysql shell y hacer la base de datos RRHH. DONE
+2-Crear tabla llamada EMPLEADO que contenga:  ID(INT), NOMBRE(VARCHAR),APELLIDO(VARCHAR), DI(VARCHAR), FECHA_DE_NACIMIENTO(VARCHAR), DEPARTAMENTO(VARCHAR), FECHA_CONTRATACION(VARCHAR) Y SALARIO(VARCHAR) DONE
+--------------------------------------------------
